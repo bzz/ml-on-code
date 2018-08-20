@@ -109,7 +109,7 @@ Keeps all files + updates of a single Git repository in 1 file in FS.
 find ./repositories/
 
 # list files in archive
-sive list ./repositories/siva/latest/65/65c397a8673c0f4b98e3867e5fd6efdaa7d9ccd2.siva
+siva list ./repositories/siva/latest/65/65c397a8673c0f4b98e3867e5fd6efdaa7d9ccd2.siva
 
 # extract single file
 siva unpack -m=config ./repositories/siva/latest/65/65c397a8673c0f4b98e3867e5fd6efdaa7d9ccd2.siva .
@@ -191,8 +191,8 @@ Visit http://dashboard.bblf.sh/ to try experiment with uAST representation.
 Materials:
   - https://blog.sourced.tech/post/announcing_babelfish/
   - https://doc.bblf.sh/
-  - https://doc.bblf.sh/user/getting-started.html
-  - https://doc.bblf.sh/user/uast-querying.html
+  - https://doc.bblf.sh/using-babelfish/getting-started.html
+  - https://doc.bblf.sh/using-babelfish/uast-querying.html
   - https://doc.bblf.sh/uast/roles.html#roles-list
 
 
